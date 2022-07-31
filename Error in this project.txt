@@ -1,0 +1,11 @@
+Home Page Image not center in mobile view.
+
+Qualification Section 
+Education and work not change the color when active.
+
+Nav Bar 
+Active page not change the color
+
+
+Improtant Link:
+https://github.com/bedimcode/responsive-website-restaurant/blob/main/assets/js/main.js
